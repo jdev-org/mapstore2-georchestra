@@ -3,5 +3,9 @@
 
 Sommaire de la partie "Installer".
 Cette section les diffrentes possibilités d'installation de Mapstore2-geOrchestra
-- avec l'image docker de georchestra
-- avec l'image docker de geosolutions
+##  sans image docker
+TODO
+## image docker de georchestra
+TODO 
+## image docker de geosolutions
+TODO
