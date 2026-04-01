@@ -1,11 +1,4 @@
 # Comment ajouter une carte Mapstore dans une site internet ?
-<<<<<<< HEAD
-=======
-
-L'intégration d'une carte dans un site internet est possible via l'intégration d'un contexte Mapstore sous la forme d'un iFrame.
-
-## Créer une iFrame avec MapStore : msIframe
->>>>>>> bb0539b (iframe)
 
 L'intégration d'une carte dans un site internet est possible via l'intégration d'un contexte Mapstore sous la forme d'un iFrame.
 
