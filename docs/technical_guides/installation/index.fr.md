@@ -1,8 +1,8 @@
-# Sommaire
 
+# Guide d'installation
 
-Sommaire de la partie "Installer".
-Cette section les diffrentes possibilités d'installation de Mapstore2-geOrchestra
+Pour installer mapstore il ya plusieurs façons de procéder.
+
 ##  sans image docker
 TODO
 ## image docker de georchestra
