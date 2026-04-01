@@ -13,7 +13,7 @@ Mapstore s'appuie sur 2 notions :
 
  - <strong>la carte</strong> : C'est le document géographique final. Elle se compose de couches de données, d'un niveau de zoom et d'un centrage précis. C'est ce que l'utilisateur consulte pour visualiser des données spécifiques.
 
- - <strong>le contexte</strong> : C'est une carte enrichie d’outils (impression, recherche, mesure, ...), pour produire une application, sa présentation peut être personnalisée.
+ - <strong>le contexte</strong> : C'est une carte enrichie d’outils (impression, recherche, mesure, ...), pour produire une application, sa présentation peut être personnalisée. Elle a une URL propre.
 
 
 Les sections amont suivantes restent particulièrement utiles :
@@ -24,6 +24,4 @@ Les sections amont suivantes restent particulièrement utiles :
 Utilisez cette section pour les pages orientées usage spécifiques à geOrchestra :
 
 - [Prendre en main](getting_started.fr.md)
-- [Vue globale](global_overview.fr.md)
-- [Barres ou menus d'outils](tools.fr.md)
-- [msIframe](msiframe.fr.md)
+- [Administration fonctionnelle](fonctionnal_administration.md)

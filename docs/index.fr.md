@@ -17,9 +17,8 @@ Cette documentation donne une vue d'ensemble de l'usage, de la configuration et 
 Pour prendre en main le visualiseur, comprendre l'interface, explorer les outils disponibles et partager des cartes ou des contextes.
 
 - [Prendre en main](user_guide/getting_started.fr.md)
-- [Vue globale](user_guide/global_overview.fr.md)
-- [Barres ou menus d'outils](user_guide/tools.fr.md)
-- [msIframe](user_guide/msiframe.fr.md)
+- [Administration fonctionnelle](user_guide/fonctionnal_administration.md)
+
 
 ### [Guides techniques](technical_guides/index.fr.md)
 
