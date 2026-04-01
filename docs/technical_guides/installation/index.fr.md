@@ -1,7 +1,7 @@
 
 # Guide d'installation
 
-Pour installer mapstore il ya plusieurs façons de procéder.
+Pour installer mapstore il y a plusieurs façons de procéder.
 
 ##  sans image docker
 TODO

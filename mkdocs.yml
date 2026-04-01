@@ -67,6 +67,7 @@ nav:
             - technical_guides/configuration/index.md
             - technical_guides/configuration/general.md
             - technical_guides/configuration/database.md
+            - technical_guides/configuration/ldap.md
             - technical_guides/configuration/application.md
             - technical_guides/configuration/other.md
             - technical_guides/configuration/catalog.md

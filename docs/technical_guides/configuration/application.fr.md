@@ -24,7 +24,8 @@ Le fichier `proxy.properties` contient la configuration du proxy. Voir :
 
 ## Visualiseur cartographique
 
-Le visualiseur, le registre de plugins et l'éditeur de contexte sont configurés via des fichiers JSON stockés dans `mapstore/`. Si un fichier est absent du répertoire de données, MapStore se replie sur la version embarquée dans la webapp d'origine.
+Le visualiseur, le registre de plugins et l'éditeur de contexte sont configurés via des fichiers JSON stockés dans `mapstore/`. 
+/!\  **Si un fichier est absent du répertoire de données (datadir georchestra), MapStore se replie sur la version embarquée dans la webapp d'origine.**
 
 ### `localConfig.json`
 
