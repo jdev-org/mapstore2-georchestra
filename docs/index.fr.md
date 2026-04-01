@@ -10,17 +10,16 @@ Bienvenue dans la documentation de MapStore2 pour geOrchestra.
 
 Cette documentation donne une vue d'ensemble de l'usage, de la configuration et de l'intégration de MapStore dans une IDS geOrchestra.
 
-## Commencer par la bonne section
 
-### [Guide utilisateur](user_guide/index.fr.md)
+## Guide utilisateur et administrateur fonctionnel
 
 Pour prendre en main le visualiseur, comprendre l'interface, explorer les outils disponibles et partager des cartes ou des contextes.
 
-- [Prendre en main](user_guide/getting_started.fr.md)
-- [Administration fonctionnelle](user_guide/fonctionnal_administration.md)
+[Consulter le guide utilisateur et administrateur fonctionnel](user_guide/index.fr.md)
 
 
-### [Guides techniques](technical_guides/index.fr.md)
+
+## [Guides techniques](technical_guides/index.fr.md)
 
 Pour installer, configurer et administrer MapStore2 dans geOrchestra, avec les points d'attention propres à cette intégration.
 
