@@ -98,5 +98,7 @@ Il est possible de configurer plusieurs catalogues.
 #### 4. Rôle dans la structure de la carte
 Techniquement, une carte (document JSON) contient une **liste des catalogues autorisés**, permettant le chargement dynamique des données par l’utilisateur.
 
-> **En résumé** : Le catalogue est la **porte d’entrée vers le patrimoine de données géographiques** disponibles sur le portail, facilitant leur découverte via les métadonnées avant intégration sur la carte.
+> **En résumé** : Le catalogue est la **porte d’entrée vers le patrimoine de données géographiques** disponibles sur le portail, facilitant leur découverte via les métadonnées avant intégration sur la carte. 
+
+> [Consulter la documentation relative à l'utilisation du catalogue](https://docs.mapstore.geosolutionsgroup.com/en/latest/user-guide/catalog/)
 
